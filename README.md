@@ -1,6 +1,6 @@
 # tiktok-botting-reporter
 
-This software reorts illegal and unethical tiktok accounts with a very fast result rate
+This software reports illegal and unethical tiktok accounts with a very fast result rate
 
 developer: https://t.me/tiktokreportapp
 
