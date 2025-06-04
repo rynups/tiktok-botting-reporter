@@ -9,3 +9,4 @@ use this software for legal purpose only.
 ![tiktokpic](https://github.com/user-attachments/assets/4839d491-7e0b-404f-8e71-3b13a4071fb6)
 
 tiktok report app
+tiktok report bot
