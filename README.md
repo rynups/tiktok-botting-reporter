@@ -10,7 +10,7 @@ use this software for legal purpose only.
 
 # tiktok report app
 # tiktok report bot
-tiktok ban tool
+# tiktok ban tool
 tiktok mass report
 tiktok ban tool
 tiktok mass report
