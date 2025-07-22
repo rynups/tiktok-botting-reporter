@@ -15,4 +15,4 @@ use this software for legal purpose only.
 # tiktok ban tool
 # tiktok mass report
 # tiktok ban tool
-tiktok mass report
+# tiktok mass report
