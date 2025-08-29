@@ -22,3 +22,4 @@ use this software for legal purpose only.
 # tiktok ban reporter
 # tiktok mass reporter
 # tiktok reporter bot
+# tiktok ban tool
