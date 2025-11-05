@@ -27,3 +27,4 @@ use this software for legal purpose only.
 # tiktok tool report
 # tiktok banner
 # tiktok ban tool
+# tiktok mass reporter
