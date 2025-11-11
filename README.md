@@ -28,3 +28,4 @@ use this software for legal purpose only.
 # tiktok banner
 # tiktok ban tool
 # tiktok mass reporter
+# tiktok ban reporter
