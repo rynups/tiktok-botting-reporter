@@ -30,3 +30,4 @@ use this software for legal purpose only.
 # tiktok mass reporter
 # tiktok ban reporter
 # tiiktok ban reporter
+# tiktok ban reporter
