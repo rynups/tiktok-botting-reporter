@@ -2,11 +2,11 @@
 
 This software reports illegal and unethical tiktok accounts with a very fast result rate
 
-developer: https://t.me/tiktokreportapp
+developer: https://t.me/redsecure
 
 use this software for legal purpose only.
 
-![tiktokpic](https://github.com/user-attachments/assets/4839d491-7e0b-404f-8e71-3b13a4071fb6)
+<img width="458" height="375" alt="tkrp" src="https://github.com/user-attachments/assets/2a4b74d5-9462-44b3-93dc-865808b6346f" />
 
 # tiktok report app
 # tiktok report bot
