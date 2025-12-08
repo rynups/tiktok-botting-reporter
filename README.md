@@ -31,3 +31,4 @@ use this software for legal purpose only.
 # tiktok ban reporter
 # tiiktok ban reporter
 # tiktok ban reporter
+# tiktok ban account
